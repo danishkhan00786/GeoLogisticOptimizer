@@ -227,7 +227,7 @@ understand end-to-end, sophisticated enough to talk about in interviews.
 ## © Copyright
 
 **GeoLogistics Delivery Optimizer**
-© 2025 Thijs · All Rights Reserved
+© 2025 Danish · All Rights Reserved
 
 Built with ❤️ using the MERN Stack.
 This project is for portfolio/educational purposes.
